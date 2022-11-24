@@ -1,0 +1,51 @@
+#head{
+    margin-top: 5%;
+    text-align: center;
+}
+
+h1{
+    margin: 60px;
+    text-align: center;
+    border: 5px dashed darkslategray;
+    padding: 10px;
+    background-color:aquamarine;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 0px;
+}
+
+#button{
+    margin: 20px;
+    display: table;
+    margin: 0 auto;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+#name{
+    margin: 20px;
+    display: table;
+    margin: 0 auto;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+#predict{
+    margin: 20px;
+    display: table;
+    margin: 0 auto;
+}
+
+h3,h5{
+    color: rgb(102, 30, 236);
+    text-align: center;
+    margin: 15px;
+    text-decoration: underline;
+}
+
+body{
+    background: radial-gradient(rgb(255, 0, 89),pink,rgb(240, 240, 146));
+}
